@@ -1,6 +1,6 @@
 # googlemapsexperiment
 
-# Experimenting tutorials on https://developers.google.com/maps/documentation/javascript/adding-a-google-map?authuser=7
+Experimenting tutorials on https://developers.google.com/maps/documentation/javascript/adding-a-google-map?authuser=7
 
 1.) Get an API from Google Maps for Javascript and enable it
 
@@ -11,3 +11,5 @@ use this to trouble shoot
 "https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" into index.html
 
 3.) Enable billing on google cloud project
+
+# Marker clustering
