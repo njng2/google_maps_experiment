@@ -1,4 +1,4 @@
-# googlemapsexperiment
+# google_maps_experiment
 
 Experimenting tutorials on https://developers.google.com/maps/documentation/javascript/adding-a-google-map?authuser=7
 
@@ -12,4 +12,4 @@ use this to trouble shoot
 
 3.) Enable billing on google cloud project
 
-# Marker clustering
+
